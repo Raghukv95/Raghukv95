@@ -1,8 +1,8 @@
-# Raghu K Venkatesh 👋
+## Raghu K Venkatesh 👋
 
-## Having Worked in Merchant Navy as Electro Technical officer for 4 years, i am shifting to Data Science domain. As an aspiring Data Scientist i am eagerly waiting for an opportunity to upskill myself and to make positive impact in the organisation.
+### Having Worked in Merchant Navy as Electro Technical officer for 4 years, i am shifting to Data Science domain. As an aspiring Data Scientist i am eagerly waiting for an opportunity to upskill myself and to make positive impact in the organisation.
 
-### As an aspiring data science enthusiast, i possess the following skills
+### i have completed certification cource in Data Science (AIML), i possess the following skills
   * Python, Seaborn, Matplotlib, Numpy
   * Machine learing and Deep Learning
   * Power BI, Tableau
